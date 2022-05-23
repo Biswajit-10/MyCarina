@@ -1,0 +1,4 @@
+[2022-05-23 04:35:17] [1] [WARN] Reporting disabled: using no op test run registrar
+[2022-05-23 04:35:17] [1] [INFO] TEST [Default test - test002] STARTED at [22:05:17 2022-05-23]
+[2022-05-23 04:37:20] [1] [INFO] PASS: element 'By.id: com.miui.calculator:id/btn_9_s' is clicked.
+[2022-05-23 04:38:54] [1] [INFO] PASS: element 'By.id: com.miui.calculator:id/btn_mul_s' is clicked.
